@@ -1,7 +1,7 @@
-## Hi there 👋
+# Olá, me nome é  Kálita! 
 
-<!--
-**kalitamariano/kalitamariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## Contatos:
 
 <div>
@@ -10,39 +10,73 @@
 </div>
 
 
-😄Sobre Mim
-Sou uma profissional dedicada, apaixonada por ciência de dados e tecnologias. Tenho formação em Farmácia e pós-graduação em Análise de Dados, atualmente expandindo minhas competências em Ciência de Dados, Sistemas de Informação e Desenvolvimento de Sistemas. Meu objetivo é aplicar conhecimentos técnicos para transformar dados em insights valiosos, contribuindo para a otimização de processos e a tomada de decisões estratégicas.
 
-📚 Educação
-MBA em Ciência de Dados – Fatec (Conclusão em 2024).
-Sistemas de Informação – UNINTER (Cursando, previsão de conclusão em 2026).
-Farmácia – Universidade unic (2017).
-🔧 Competências Técnicas
+
+### 😄Sobre Mim
+Sou uma profissional dedicada, apaixonada por ciência de dados e tecnologias. Tenho formação em Farmácia e pós-graduação em Análise de Dados, atualmente expandindo minhas competências em Ciência de Dados, Sistemas de Informação e Desenvolvimento de Sistemas. Meu objetivo é aplicar conhecimentos técnicos para transformar dados em insights valiosos, contribuindo para a otimização de processos e a tomada de decisões estratégicas.'
+
+
+
+## 📚 Educação
+
+* MBA em Ciência de Dados – Fatec (Conclusão em 2024).
+
+* Sistemas de Informação – UNINTER (Cursando, previsão de conclusão em 2027).
+
+* Farmácia – Universidade unic (2017).
+
+
+
+## 🔧 Competências Técnicas
+
 Análise de Dados: Experiência na coleta, limpeza e análise de dados.
-Ferramentas e Linguagens:
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python (Pandas, NumPy, Matplotlib, Seaborn).
+Ferramentas e Linguagens:
+         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> Python (Pandas, NumPy, Matplotlib, Seaborn).
  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-          SQL (PostgreSQL, MySQL).
+SQL (PostgreSQL, MySQL).
+
 Power BI (dashboards interativos).
+
 Machine Learning: Desenvolvimento de modelos preditivos.
+
 Metodologias Ágeis: Conhecimento em Scrum para gestão de projetos.
 
-📜 Certificações e Cursos
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+## 📜 Certificações e Cursos
+
 Certificação BI Foundation – (senac)..
 
-💻 Projetos no GitHub
-Aqui estão alguns dos projetos que refletem minha jornada e paixão por dados:
 
-🌱 Projetos Acadêmicos
+
+
+
+
+## 🌱 Projetos Acadêmicos
+
 Monitoramento de Temperatura na Logística Farmacêutica:
+
 Desenvolvi análises para garantir o controle da temperatura em áreas de armazenamento utilizando data loggers, conforme as normas da RDC 430 da ANVISA.
 [Repositório no GitHub]
 
-🎯 Objetivo
+
+
+## 🎯 Objetivo
+
 Estou à procura de oportunidades na área de dados onde possa colaborar com equipes dinâmicas e aplicar minhas habilidades técnicas para resolver problemas complexos, sempre em busca de impactar positivamente as organizações.
   
 
--->
-##
+
