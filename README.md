@@ -13,7 +13,7 @@
 
 
 ### 😄Sobre Mim
-Sou uma profissional dedicada, apaixonada por ciência de dados e tecnologias. Tenho formação em Farmácia e pós-graduação em Análise de Dados, atualmente expandindo minhas competências em Ciência de Dados, Sistemas de Informação e Desenvolvimento de Sistemas. Meu objetivo é aplicar conhecimentos técnicos para transformar dados em insights valiosos, contribuindo para a otimização de processos e a tomada de decisões estratégicas.'
+Sou uma profissional dedicada, apaixonada por ciência de dados e tecnologias. Tenho formação em Farmácia e pós-graduação em Análise de Dados, atualmente expandindo minhas competências em Ciência de Dados estudante Sistemas de Informação pela Uninter. Meu objetivo é aplicar conhecimentos técnicos para transformar dados em insights valiosos, contribuindo para a otimização de processos e a tomada de decisões estratégicas.'
 
 
 
